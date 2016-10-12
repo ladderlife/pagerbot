@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Karl-Aksel Puulmann']
   spec.email         = ['oxymaccy@gmail.com']
   spec.summary       = %q{IRC and Slackbot for PagerDuty.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = 'https://github.com/stripe-contrib/pagerbot'
+  spec.description   = %q{Description}
+  spec.homepage      = 'https://github.com/ladderlife/pagerbot'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
